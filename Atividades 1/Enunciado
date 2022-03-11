@@ -1,0 +1,8 @@
+EX1 - Programa que converte metros em centímetros;
+EX2 - Programa que recebe duas notas e calcula uma média aritmética;
+EX3 - Programa que recebe um valor inteiro e informa se ele é positivo, negativo ou neutro;
+EX4 - Programa que recebe um valor inteiro e mostra sua tabuada do 1 ao 10;
+EX5 - Programa que recebe um salário e reajusta de acordo com as informações abaixo:
+		Abaixo de R$ 500				15%
+		Entre R$ 500 à R$ 1000		10%
+		Acima de R$ 1000				5%.
